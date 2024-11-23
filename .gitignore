@@ -1,0 +1,8 @@
+# Ignore swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+*.un~
+*.bak
+undo/*
+
